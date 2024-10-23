@@ -1,1 +1,0 @@
-TIP-Calculator Simple Project
